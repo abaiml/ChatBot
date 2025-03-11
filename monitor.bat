@@ -1,2 +1,2 @@
 @echo off
-python C:\Users\ayush\Documents\ChatBot\monitor.py
+the path where is monitor.py
