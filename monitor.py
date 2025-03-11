@@ -8,7 +8,7 @@ def get_python_files(directory):
 
 def monitor_directory():
     """Monitors a directory for changes in Python files."""
-    WATCH_DIRECTORY = r"C:\Users\ayush\Documents\ChatBot python file"
+    WATCH_DIRECTORY = r"path of directory you want to watch over"
     print(f"👀 Watching directory: {WATCH_DIRECTORY}")
 
     last_modified_times = get_python_files(WATCH_DIRECTORY)
