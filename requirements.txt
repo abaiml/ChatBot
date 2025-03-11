@@ -1,3 +1,4 @@
 chromadb
 cohere
 python-dotenv
+watchdog
